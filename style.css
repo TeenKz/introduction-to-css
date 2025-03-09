@@ -1,0 +1,15 @@
+h3{
+    color: red;
+}
+.abc{
+    color: brown;
+}
+#ab{
+    color: chartreuse;
+}
+h4,h5{
+    color: darkblue;
+}
+*{
+    background-color: black;
+}
